@@ -8,9 +8,11 @@ The idea is that you can add a simple `help` target to your makefile. Then get `
 example: ## Any double commented target now becomes help!
 ```
 
+---
+
 ### Sebastian Gryczan
 
-Contributed by [sgryczan](https://github.com/sgryczan).
+Contributed by [@sgryczan](https://github.com/sgryczan).
 
 ```bash
 help:
@@ -19,6 +21,8 @@ help:
 ```
 
 ### Kris Nóva
+
+Contributed by [@kris-nova](https://github.com/kris-nova).
 
 ```bash
 .PHONY: help
